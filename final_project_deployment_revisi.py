@@ -13,6 +13,8 @@ Original file is located at
 
 !pip install streamlit-option-menu
 
+!pip install streamlit-nightly
+
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
 # import streamlit as st
