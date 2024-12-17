@@ -153,7 +153,3 @@ Original file is located at
 # 
 # if __name__ == '__main__':
 #     main()
-
-!wget -q -O - ipv4.icanhazip.com
-
-!streamlit run app.py & npx localtunnel --port 8501
