@@ -9,12 +9,6 @@ Original file is located at
 <a href="https://colab.research.google.com/github/RFOXgithub/Sistem-Rekomendasi-Pengelolaan-Produk/blob/main/Final_Project_Deployment.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 """
 
-!pip install streamlit -q
-
-!pip install streamlit-option-menu
-
-!pip install streamlit-nightly
-
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
 # import streamlit as st
